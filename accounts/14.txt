@@ -1,6 +1,6 @@
 PlayerID=("14")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("True")
+BanReason=("ЕБЛАН")
 IP=("XIryZxH4Jl0jHKMp/3pouQ==")
 RegisterDate=("2025-10-20 06:11:05")
 PlayerName=("D1FFL1")
